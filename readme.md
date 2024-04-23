@@ -5,7 +5,7 @@
 add this to `/etc/pacman.conf`
 
 ```
-[sora-tmp-repo]
+[soraos-tmp-repo]
 SigLevel = Optional DatabaseOptional
 Server = https://soraos.github.io/$repo/
 ```
